@@ -1,7 +1,4 @@
 This is my new file where important information about SkillageIT's inventory management software will be kept
 
-Editing file for the Upskilled track of initial version change assessment 
+Pull request for Task
 
-Pull request task
-
-Updating for a pull origin 
